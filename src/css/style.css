@@ -17,8 +17,10 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 15px;
+    padding: 5px;
 }
-.container .card .number-card {
+.container .card .id-card {
     color: hsl(150, 100%, 66%);
     font-size: 12px;
     margin-top: 30px;
@@ -53,3 +55,4 @@ body {
     cursor: pointer;
     box-shadow: 0 5px 15px hsl(150, 100%, 66%);
 }
+
